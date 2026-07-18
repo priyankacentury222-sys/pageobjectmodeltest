@@ -1,0 +1,42 @@
+{
+
+  "default": {
+
+   
+
+    "formatOptions":{
+
+        "shippentInterface": "async-wait"
+
+    },
+
+
+
+    "paths": [
+
+        "tests/features/*.feature"
+        
+
+    ],
+
+
+
+    "publishQuiet": true,
+
+    "dryrun":false,
+
+    
+
+    "require": [
+
+      "tests/steps/*.js"
+
+      
+
+     
+
+       ]
+
+    }
+
+ }
