@@ -21,3 +21,5 @@ class LoginPage {
 }
 
 module.exports = { LoginPage };
+
+/*This is my commit */
